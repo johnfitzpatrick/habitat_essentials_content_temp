@@ -4,3 +4,6 @@
 
 [css]
 background_color = '243442'
+
+[app]
+port = 8000
